@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537876840 source:d:\telkom university\asd\oopperpustakaan\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
